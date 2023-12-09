@@ -1,0 +1,6 @@
+public void someMethod(String... var)
+{
+//method body
+}
+
+The 3 dots feature was started from Java 5 onwards and is by the name of varargs or variable arguments and it simply means that a method can receive multiple variables as arguments without prior initializing it with the number of variables it might contain.
